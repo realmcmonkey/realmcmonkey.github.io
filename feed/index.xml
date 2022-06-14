@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mr. Monkey</title>
+	<atom:link href="http://realmcmonkey.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>http://realmcmonkey.github.io</link>
+	<description>Vlogger Website</description>
+	<lastBuildDate>Tue, 14 Jun 2022 14:15:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Diamond Rush</title>
+		<link>http://realmcmonkey.github.io/2022/06/14/diamond-rush/</link>
+					<comments>http://realmcmonkey.github.io/2022/06/14/diamond-rush/#respond</comments>
+		
+		<dc:creator><![CDATA[RealMcMonkey]]></dc:creator>
+		<pubDate>Tue, 14 Jun 2022 14:11:20 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://realmcmonkey.github.io/?p=1064</guid>
+
+					<description><![CDATA[Diamond Rush is an intense minigame where you have to mine as many diamond ores as you can and then smelt them to get diamonds. All of this has to be done during a period of just two minutes. If you collect 32 diamonds then you&#8217;ll win the game. This game can be played alone &#8230;<p class="read-more"> <a class="" href="http://realmcmonkey.github.io/2022/06/14/diamond-rush/"> <span class="screen-reader-text">Diamond Rush</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1064" class="elementor elementor-1064">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-5e755c7c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5e755c7c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4b16022c" data-id="4b16022c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-295bec6d elementor-widget elementor-widget-text-editor" data-id="295bec6d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Diamond Rush is an intense minigame where you have to mine as many diamond ores as you can and then smelt them to get diamonds. All of this has to be done during a period of just two minutes. If you collect 32 diamonds then you&#8217;ll win the game. This game can be played alone or with multiple players. It&#8217;s based off another map here on MCPE DL called <a href="http://mcpedl.com/gold-rush-map/" data-type="URL" data-id="http://mcpedl.com/gold-rush-map/" target="_blank" rel="noreferrer noopener">Gold Rush.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="has-large-font-size">How to play?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">All you have to do is collect 32 diamonds and smelt them and you will win the games. You have 2 minutes. This map can be played with as many players as you want.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://mcpedl.com/wp-content/uploads/2018/07/diamond-rush-2.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://mcpedl.com/wp-content/uploads/2018/07/diamond-rush-3.jpg" alt=""/></figure>
+<!-- /wp:image -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-3b936a1 elementor-button-warning elementor-align-justify elementor-widget elementor-widget-button" data-id="3b936a1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://www.mediafire.com/file/clvemx1to77yadt/Diamond_RushU2.mctemplate/file" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">download world .mcTemplate</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4a238cf elementor-button-success elementor-align-justify elementor-widget elementor-widget-button" data-id="4a238cf" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://www.mediafire.com/file/l4ktwowgmhukcr1/Diamond_RushU2.zip/file" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">download world .ZIP</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a274766 elementor-widget elementor-widget-spacer" data-id="a274766" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>http://realmcmonkey.github.io/2022/06/14/diamond-rush/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Monkey&#8217;s Skin Pack</title>
+		<link>http://realmcmonkey.github.io/2022/06/14/monkeys-skin-pack/</link>
+					<comments>http://realmcmonkey.github.io/2022/06/14/monkeys-skin-pack/#respond</comments>
+		
+		<dc:creator><![CDATA[RealMcMonkey]]></dc:creator>
+		<pubDate>Tue, 14 Jun 2022 13:58:12 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://realmcmonkey.github.io/?p=1058</guid>
+
+					<description><![CDATA[Have you ever wanted to be a monkey in Minecraft? Well, here&#8217;s your chance with Santa Claus monkey, Easter monkey, dab police monkey and many others! Download it and try it out! These ones (image above and below) are the costume ones (except the last one in the image below that is the normal one). &#8230;<p class="read-more"> <a class="" href="http://realmcmonkey.github.io/2022/06/14/monkeys-skin-pack/"> <span class="screen-reader-text">Monkey&#8217;s Skin Pack</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1058" class="elementor elementor-1058">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-30d00b1d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="30d00b1d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6523a57" data-id="6523a57" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7369ea7c elementor-widget elementor-widget-text-editor" data-id="7369ea7c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Have you ever wanted to be a monkey in Minecraft? Well, here&#8217;s your chance with Santa Claus monkey, Easter monkey, dab police monkey and many others! Download it and try it out!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":831,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" width="700" height="241" src="http://realmcmonkey.github.io/wp-content/uploads/2021/02/monkeys-skin-pack_5.png" alt="" class="wp-image-831" srcset="http://realmcmonkey.github.io/wp-content/uploads/2021/02/monkeys-skin-pack_5.png 700w, http://realmcmonkey.github.io/wp-content/uploads/2021/02/monkeys-skin-pack_5-300x103.png 300w, http://realmcmonkey.github.io/wp-content/uploads/2021/02/monkeys-skin-pack_5-600x207.png 600w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"align":"center","id":988,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" width="700" height="241" src="http://realmcmonkey.github.io/wp-content/uploads/2022/06/monkeys-skin-pack_6.png" alt="" class="wp-image-988" srcset="http://realmcmonkey.github.io/wp-content/uploads/2022/06/monkeys-skin-pack_6.png 700w, http://realmcmonkey.github.io/wp-content/uploads/2022/06/monkeys-skin-pack_6-300x103.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">These ones (image above and below) are the costume ones (except the last one in the image below that is the normal one).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":989,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img loading="lazy" width="651" height="254" src="http://realmcmonkey.github.io/wp-content/uploads/2022/06/monkeys-skin-pack_7.png" alt="" class="wp-image-989" srcset="http://realmcmonkey.github.io/wp-content/uploads/2022/06/monkeys-skin-pack_7.png 651w, http://realmcmonkey.github.io/wp-content/uploads/2022/06/monkeys-skin-pack_7-300x117.png 300w" sizes="(max-width: 651px) 100vw, 651px" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size">for your enjoyment there are some bonus skins not pictured above</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="has-large-font-size">Included Skins</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true,"fontSize":"medium"} -->
+<ol class="has-medium-font-size"><li>casual monkey</li><li>casual monkey</li><li>dab police monkey</li><li>suit and tie monkey</li><li>developer monkey</li><li>swimsuit monkey</li><li>youtube monkey</li><li>easter bunny monkey</li><li>elf monkey</li><li>enderman monkey</li><li>pumpkin monkey</li><li>santa monkey</li><li>zombie monkey</li><li>normal (naked) monkey</li><li>Casual Monkey 3</li><li>Nike Monkey (with headphones)</li><li>Nike Monkey (without Headphones)</li><li>Chicken Onesie Monkey</li></ol>
+<!-- /wp:list -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-a90025b elementor-button-info elementor-align-justify elementor-widget elementor-widget-button" data-id="a90025b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.mediafire.com/file/a0ycp34mtcegkuo/monkey%2527s_Skin_Pack.mcpack/file" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Download Monkey's Skin Pack</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3b5ee49 elementor-widget elementor-widget-spacer" data-id="3b5ee49" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>http://realmcmonkey.github.io/2022/06/14/monkeys-skin-pack/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>X-Run Alpha</title>
+		<link>http://realmcmonkey.github.io/2022/06/14/x-run-alpha/</link>
+		
+		<dc:creator><![CDATA[RealMcMonkey]]></dc:creator>
+		<pubDate>Tue, 14 Jun 2022 13:32:39 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://realmcmonkey.github.io/?p=1036</guid>
+
+					<description><![CDATA[X-Run is a parkour map where you have speed 25 where you will fall into the void a lot and probably rage quit with the troll in the map have fun. Plz remember this is my first map Welcome to X-Run Alpha where you will go flying into the void if your not careful – &#8230;<p class="read-more"> <a class="" href="http://realmcmonkey.github.io/2022/06/14/x-run-alpha/"> <span class="screen-reader-text">X-Run Alpha</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1036" class="elementor elementor-1036">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-1e086373 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1e086373" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5bfd8691" data-id="5bfd8691" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3167575 elementor-widget elementor-widget-text-editor" data-id="3167575" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size">X-Run is a parkour map where you have speed 25 where you will fall into the void a lot and probably rage quit with the troll in the map have fun.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"40px"}}} -->
+<p style="font-size:40px">P<strong><em>lz remember this is my first map</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><strong><em>Welcome to X-Run Alpha where you will go flying into the void if your not careful – please remember this is my first ever map so if there is bugs im sorry</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><strong><em>This is just a parkour map with lots and lots of speed (around speed 25 to be exact)</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><strong><em>Some spots are a lot easier then they look and some are harder then they look (or are they)</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><strong><em>Here are some spots in the map</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":1037,"width":646,"height":561,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" src="http://realmcmonkey.github.io/wp-content/uploads/2022/06/xrun-alpha_2.jpg" alt="" class="wp-image-1037" width="646" height="561" srcset="http://realmcmonkey.github.io/wp-content/uploads/2022/06/xrun-alpha_2.jpg 700w, http://realmcmonkey.github.io/wp-content/uploads/2022/06/xrun-alpha_2-300x261.jpg 300w" sizes="(max-width: 646px) 100vw, 646px" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"align":"center","id":1038,"width":521,"height":660,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img loading="lazy" src="http://realmcmonkey.github.io/wp-content/uploads/2022/06/xrun-alpha_3.png" alt="" class="wp-image-1038" width="521" height="660" srcset="http://realmcmonkey.github.io/wp-content/uploads/2022/06/xrun-alpha_3.png 634w, http://realmcmonkey.github.io/wp-content/uploads/2022/06/xrun-alpha_3-237x300.png 237w" sizes="(max-width: 521px) 100vw, 521px" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><strong><em>AND YES THERE IS A FEW TROLLS IN THIS MAP</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><strong><em>I hope you enjoy falling into the void hahaha</em></strong></p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-6b350a0 elementor-button-info elementor-align-justify elementor-widget elementor-widget-button" data-id="6b350a0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.mediafire.com/file/tlkm2jhex54k0m1/X-Run_Alpha.mcworld/file" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Download X-Run Alpha</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-58df46f elementor-widget elementor-widget-spacer" data-id="58df46f" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
